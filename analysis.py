@@ -235,7 +235,7 @@ print()
 
 
 # ===================================================================
-# 6. FEATURE COMBINATION HEATMAP — Quality Indicators & Price
+# 6. FEATURE COMBINATION HEATMAP - Quality Indicators & Price
 # ===================================================================
 # Map quality columns to numeric for correlation
 qual_map = {"Po": 1, "Fa": 2, "TA": 3, "Gd": 4, "Ex": 5}
@@ -290,7 +290,7 @@ print()
 
 
 # ===================================================================
-# SUMMARY — KEY FINDINGS
+# SUMMARY - KEY FINDINGS
 # ===================================================================
 print("=" * 60)
 print("KEY FINDINGS")

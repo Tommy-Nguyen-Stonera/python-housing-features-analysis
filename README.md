@@ -8,9 +8,9 @@ Analysis of the Ames Housing dataset to understand how building materials and fi
 
 - Overall quality rating is the strongest single predictor of sale price
 - Kitchen quality upgrade from Average to Excellent adds $80K+ to median price
-- Stone masonry veneer adds significant value over vinyl siding
-- Poured concrete foundations command the highest prices
-- Exterior material choice has a measurable impact on property value
+- Stone masonry veneer adds $102K to median price compared to no veneer ($245K vs $143K)
+- Poured concrete foundations sit at $208K median, $43K above cinder block
+- Exterior material choice spans $103K in median price from metal siding ($135K) to cement board ($238K)
 
 ## Tools
 
